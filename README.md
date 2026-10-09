@@ -66,6 +66,11 @@ A small retrieval evaluation script measures Hit Rate@K over four test questions
 
 This is a small development test set, not a guarantee of performance on unseen documents or questions.
 
+## Application Screenshots
+![alt text](image.png)
+
+![alt text](image-1.png)
+
 ## Security
 
 - Store API credentials in `.env`.
