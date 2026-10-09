@@ -1,0 +1,25 @@
+
+# Secrets
+.env
+
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local documents and generated indexes
+data/uploads/
+data/indexes/
+
+# Test artifacts
+.pytest_cache/
+.coverage
+*.log
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
