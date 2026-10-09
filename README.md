@@ -78,6 +78,6 @@ This is a small development test set, not a guarantee of performance on unseen d
 - The LLM can still produce incorrect answers; verify important information against the sources.
 - The current evaluation dataset is small.
 
-## License
+## Author
 
-Choose an appropriate license before distributing the project publicly.
+Garika chandu sri
