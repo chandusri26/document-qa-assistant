@@ -70,7 +70,6 @@ This is a small development test set, not a guarantee of performance on unseen d
 
 - Store API credentials in `.env`.
 - Never commit `.env`, virtual environments, private PDFs, or generated local indexes.
-## Application Screenshots
 
 
 ## Limitations
